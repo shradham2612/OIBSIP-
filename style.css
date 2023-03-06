@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.boxing
+{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+   
+   
+}
+
+
+
+.lp
+{
+    background-image: url(./images/background.jpg);
+    /* background-repeat: no-repeat;
+   background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed; */
+
+            height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
